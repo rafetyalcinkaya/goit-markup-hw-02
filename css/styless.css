@@ -1,6 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
+  color: #2E2F42;
 }
 
 .first-class {
@@ -24,11 +25,14 @@ body {
 .class-2 {
   font-family: "Roboto", sans-serif;
   list-style: none;
-  color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
+}
+
+.class-2 a{
+  color: #2E2F42;
 }
 
 .class-2 a:hover {
@@ -110,7 +114,6 @@ button:focus {
 .sec-baslik p {
   color: #434455;
   font-family: "Roboto", sans-serif;
-  font-weight: 400px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2½;
@@ -141,7 +144,6 @@ button:focus {
 .sec-third p {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  font-weight: 400px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
@@ -174,7 +176,6 @@ button:focus {
 .sec-fourth p {
   font-family: "Roboto", sans-serif;
   color: #434455;
-  font-weight: 400px;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
@@ -212,7 +213,6 @@ button:focus {
 .sec-fifth p {
   font-family: "Roboto", sans-serif;
   color: #f4f4fd;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2½;
