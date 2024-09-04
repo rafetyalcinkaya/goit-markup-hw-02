@@ -1,7 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
-  color: #2E2F42;
+  color: #2e2f42;
 }
 
 .first-class {
@@ -31,8 +31,8 @@ body {
   letter-spacing: 2%;
 }
 
-.class-2 a{
-  color: #2E2F42;
+.class-2 a {
+  color: #2e2f42;
 }
 
 .class-2 a:hover {
@@ -56,6 +56,14 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 2%;
+}
+
+.class-3 a:focus {
+  color: #404bbf;
+}
+
+.class-3 a:hover {
+  color: #404bbf;
 }
 
 .sec-button {
@@ -97,7 +105,11 @@ button:focus {
   color: #404bbf;
 }
 
-.sec-baslik h2{
+button {
+  cursor: pointer;
+}
+
+.sec-baslik h2 {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
   font-weight: 500px;
@@ -188,9 +200,6 @@ button:focus {
 
 .sec-fifth {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
-  top: 2988px;
 }
 
 .f-web {
