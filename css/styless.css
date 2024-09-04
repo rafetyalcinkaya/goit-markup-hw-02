@@ -90,6 +90,7 @@ button {
   padding: 16px, 32px, 16px, 32px;
   gap: 10px;
   color: #ffffff;
+  cursor: pointer;
   font-family: "Roboto", sans-serif;
   font-weight: 500px;
   font-size: 16px;
@@ -98,11 +99,11 @@ button {
 }
 
 button:hover {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 button:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 button {
