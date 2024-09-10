@@ -28,7 +28,7 @@ body {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 2%;
+  letter-spacing: 2%; 
 }
 
 .class-2 a {
@@ -92,7 +92,7 @@ button {
   color: #ffffff;
   cursor: pointer;
   font-family: "Roboto", sans-serif;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 4%;
@@ -113,7 +113,7 @@ button {
 .sec-baslik h2 {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 2½;
@@ -139,7 +139,7 @@ button {
 .sec-third h2 {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
   letter-spacing: 2%;
@@ -148,7 +148,7 @@ button {
 .sec-third h3 {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 2%;
@@ -171,7 +171,7 @@ button {
 .sec-fourth h2 {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
-  font-weight: 700px;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.1;
   letter-spacing: 2%;
@@ -180,7 +180,7 @@ button {
 .sec-fourth h3 {
   font-family: "Roboto", sans-serif;
   color: #2e2f42;
-  font-weight: 500px;
+  font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 2%;
